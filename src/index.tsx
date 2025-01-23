@@ -49,6 +49,7 @@ export default function Command() {
         <List.Item
           key={account.name}
           title={account.name + " " + account.accountId}
+          icon="aws-icon.png"
           subtitle={account.accountId}
           actions={
             <ActionPanel>

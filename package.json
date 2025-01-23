@@ -16,7 +16,8 @@
       "title": "AWS Console",
       "subtitle": "aws",
       "description": "Open AWS Console for Account",
-      "mode": "view"
+      "mode": "view",
+      "icon": "aws-icon.png"
     }
   ],
   "dependencies": {
