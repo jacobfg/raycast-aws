@@ -3,13 +3,12 @@
   "name": "aws",
   "title": "aws",
   "description": "Open AWS Console for Account",
-  "icon": "aws.png",
+  "icon": "icon.png",
   "author": "jacobfg",
   "contributors": [],
   "license": "MIT",
   "categories": [
-    "Applications",
-    "Media"
+    "Applications"
   ],
   "commands": [
     {
